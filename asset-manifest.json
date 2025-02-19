@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Text-Tutors/static/css/main.e7892b60.css",
+    "main.js": "//Text-Tutors/static/js/main.b01a5d8c.js",
+    "static/js/453.7477761d.chunk.js": "//Text-Tutors/static/js/453.7477761d.chunk.js",
+    "index.html": "//Text-Tutors/index.html",
+    "main.e7892b60.css.map": "//Text-Tutors/static/css/main.e7892b60.css.map",
+    "main.b01a5d8c.js.map": "//Text-Tutors/static/js/main.b01a5d8c.js.map",
+    "453.7477761d.chunk.js.map": "//Text-Tutors/static/js/453.7477761d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7892b60.css",
+    "static/js/main.b01a5d8c.js"
+  ]
+}
