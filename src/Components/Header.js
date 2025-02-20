@@ -5,7 +5,7 @@ export default function Header() {
     <div>
       <header>
         <div className="header-content">
-          <img src="bg.png" alt="Cyber Security Image" className="header-image"/>
+        <img src="logo.png" alt="" aria-hidden="true"  className="header-image" />
         </div>
       </header>
     </div>
