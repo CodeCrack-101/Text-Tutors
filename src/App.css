@@ -148,6 +148,7 @@
   background-color: #f9f9f9;
   cursor: pointer;
   font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .faq-question:hover {
@@ -157,8 +158,11 @@
 .faq-answer {
   padding: 15px;
   background-color: #fff;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid brown;
+  color: #a02e0c;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
